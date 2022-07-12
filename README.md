@@ -15,7 +15,7 @@
 
 ## server
 - localhost:8080/swagger-ui.html#/  ->  *it includes GUI for using api's*
-- localhost:8080/api
+- localhost:8080/recepies
 
 ## Operations allowed :
 - **GET**       -> Get list of recepies that in database
